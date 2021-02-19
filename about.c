@@ -4,7 +4,9 @@
 
 void main()
 {
-	int a=2,b=3;
+	int a,b=2;
+	printf("enter a value");
+	scanf("%d",&a);
 	c=a+b;
 	printf("%d",c);
 }
