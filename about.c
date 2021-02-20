@@ -17,4 +17,5 @@ void main()
 	c=a+b;
 
 	printf("%d",c);
+	printf("Thankyou");
 }
