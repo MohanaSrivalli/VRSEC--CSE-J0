@@ -18,4 +18,5 @@ void main()
 
 	printf("%d",c);
 	printf("Thankyou");
+	printf("Bye!!!!!!!!!!");
 }
